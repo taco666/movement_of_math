@@ -34,3 +34,6 @@
 
 ## 画面遷移図
 https://www.figma.com/file/Gp3kKRFbEq6iqOYTLTcxcC/movement_of_math?node-id=0%3A1
+
+## ER図
+![movement_of_math](https://user-images.githubusercontent.com/90457229/166955826-f459302b-11cc-4b46-903b-322bf86174ee.jpg)
