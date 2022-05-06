@@ -35,9 +35,3 @@
 ## 画面遷移図
 https://www.figma.com/file/Gp3kKRFbEq6iqOYTLTcxcC/movement_of_math?node-id=0%3A1
 
-## ER図
-![movement_of_math](https://user-images.githubusercontent.com/90457229/167051092-43e7c6ca-bf73-4900-9e20-7a92257b9e68.jpg)
-
-## テーブル定義書
-https://docs.google.com/spreadsheets/d/1ZE21NwRrb_zUFLqnjo3BeMAz25nxl2jWniEqOO4vbVU/edit#gid=1369342608
-
