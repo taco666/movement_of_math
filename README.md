@@ -31,3 +31,7 @@
 　メイン機能実装：5/8 - 6/30
 　β版をRUNTEQ内リリース（MVP）：6/15〆切
 　本番リリース：6月末
+
+## 画面遷移図
+https://www.figma.com/file/Gp3kKRFbEq6iqOYTLTcxcC/movement_of_math?node-id=0%3A1
+
